@@ -29,9 +29,10 @@ export const Container = styled.header`
     article {
       position: relative;
       display: flex;
-      padding-bottom: 2.5rem;
+      padding: 0 0.5rem 2.5rem;
 
-      width: 1046px;
+      max-width: 1046px;
+      width: 100%;
 
       input {
         display: flex;

@@ -21,7 +21,7 @@ export default createGlobalStyle`
   
   h1, h2, h3, h4, h5, strong {
     font-family: 'MuliBold', serif;
-    font-weight: 400;
+    font-weight: 700;
   }
   
   button {
